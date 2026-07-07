@@ -1,0 +1,27 @@
+{
+  "identifier": "6C1A0000-0000-0000-0000-000000000001",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "6C1A0003",
+      "localizations": [
+        {
+          "description": "Late-fee calculator and rental history by vendor",
+          "displayName": "Toolrental Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.toolrental.pro",
+      "referenceName": "Toolrental Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
