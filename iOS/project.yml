@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: ToolrentalTests
-      - path: Toolrental.storekit
     dependencies:
       - target: Toolrental
     settings:
